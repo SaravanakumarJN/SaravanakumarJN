@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi 👋 I'm Saravanakumar JN
+
+- I'm a **Learner** | **Web Developer** | **Programmer**
+- Currently I'm learning **MongoDB/MySQL**, **ExpressJS**, **ReactJS**, **NodeJS**
+- Interested to **explore new technologies**
+
+### Connect with me...
+<p>
+	<a href="https://www.linkedin.com/in/saravanakumar-nagaraj-9b12bb200/">
+    <img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
+  </a>
+	<a href="https://twitter.com/Saravana_JN">
+    <img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/>
+  </a>
+  <a href="https://github.com/SaravanakumarJN">
+    <img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/>
+  </a>
+</p>
 
 <!--
-**SaravanakumarJN/SaravanakumarJN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  [![Saravanakumar's GitHub stats](https://github-readme-stats.vercel.app/api?username=saravanakumarjn)](https://github.com/saravanakumarjn/github-readme-stats)
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saravanakumarjn)](https://github.com/saravanakumarjn/github-readme-stats)
