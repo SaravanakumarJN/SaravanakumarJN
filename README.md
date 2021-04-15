@@ -2,7 +2,8 @@
 
 - I'm a **Learner** | **Web Developer** | **Programmer**
 - Currently I'm learning and working on **MongoDB**, **ExpressJS**, **ReactJS**, **NodeJS**
-- Interested in **explore new technologies**. Looking froward to start a career in a challenging work environment.
+- Interested in **explore new technologies**. 
+- Looking froward to start a career in a **challenging work environment**.
 
 ### Connect with me...
 <p>
