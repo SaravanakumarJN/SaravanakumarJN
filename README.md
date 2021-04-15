@@ -1,9 +1,9 @@
 ### Hi 👋 I'm Saravanakumar JN
 
 - I'm a **Learner** | **Web Developer** | **Programmer**
-- Currently I'm learning and working on **MongoDB**, **ExpressJS**, **ReactJS**, **NodeJS**
+- Currently I'm skilling up myself in  **MongoDB**, **ExpressJS**, **ReactJS**, **NodeJS** based web app development
 - Interested in **explore new technologies**. 
-- Looking froward to start a career in a **challenging work environment**.
+- Looking froward to start a career in a challenging work environment.
 
 ### Connect with me...
 <p>
