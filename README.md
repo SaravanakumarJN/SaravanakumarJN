@@ -3,7 +3,6 @@
 - I'm a **Learner** | **Web Developer** | **Programmer**.
 - I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge.
 - Interested in **explore new technologies**. 
-- Looking froward to start a career in a challenging work environment.
 
 ### Connect with me...
 <p>
