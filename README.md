@@ -7,7 +7,7 @@
 
 <br/>
 
-## :hammer_and_wrench: Skills/Interests
+## :hammer_and_wrench: Skills / Interests
 
 <br/>
 <div>
@@ -20,7 +20,7 @@
   ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+  ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)&nbsp;
   
 </div> 
 
@@ -30,20 +30,20 @@
 
 <br/>
 
-<!-- <a href="https://github.com/SaravanakumarJN/github-readme-streak-stats">
+<!-- <a href="#">
   <img
     title="🔥 Get streak stats for your profile at git.io/streak-stats"
     alt="SaravanakumarJN's streak"
     src="https://github-readme-streak-stats.herokuapp.com/?user=SaravanakumarJN"
   />
 </a> -->
-<a href="https://github.com/saravanakumarjn/github-readme-stats">
+<a href="#">
   <img
     alt="SaravanakumarJN's Github Stats"
     src="https://github-readme-stats.vercel.app/api?username=saravanakumarjn"
   />
 </a>
-<!-- <a href="https://github.com/saravanakumarjn/github-readme-stats">
+<!-- <a href="#">
   <img
     alt="SaravanakumarJN's Top Languages"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanakumarjn"
