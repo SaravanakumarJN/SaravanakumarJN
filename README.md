@@ -37,18 +37,17 @@
     src="https://github-readme-streak-stats.herokuapp.com/?user=SaravanakumarJN"
   />
 </a> -->
-<a href="#">
-  <img
-    alt="SaravanakumarJN's Github Stats"
-    src="https://github-readme-stats.vercel.app/api?username=saravanakumarjn"
-  />
-</a>
-<!-- <a href="#">
-  <img
-    alt="SaravanakumarJN's Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanakumarjn"
-  />
-</a> -->
+<img
+  alt="SaravanakumarJN's Github Stats"
+  src="https://github-readme-stats.vercel.app/api?username=saravanakumarjn"
+  height="207px"
+/>
+<img
+  alt="SaravanakumarJN's Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saravanakumarjn"
+  height="207px"
+/>
+
 
 <br/>
 
