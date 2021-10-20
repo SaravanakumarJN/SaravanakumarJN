@@ -4,6 +4,7 @@
 - I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge.
 - Interested in **exploring new technologies**. 
 - Currently working as an Instructional Associate @masai-school.
+<!-- - Checkout my [resume](https://drive.google.com/file/d/1LCu_MCYhcG5WTcRIIpPuKWfhgyjaiiAo/view?usp=sharing) -->
 
 <br/>
 
