@@ -54,6 +54,14 @@
 ## :earth_asia: Connect with me...
 
 <p>
+  <a href="https://portfolio.com/SaravanakumarJN">
+    <img
+      alt="github"
+      width="10%"
+      style="padding: 0 5px"
+      src="https://img.icons8.com/clouds/100/000000/domain.png"
+    />
+  </a>
   <a href="https://www.linkedin.com/in/saravanakumar-nagaraj-9b12bb200/">
     <img
       alt="linkedin"
@@ -68,14 +76,6 @@
       width="10%"
       style="padding: 0 5px"
       src="https://img.icons8.com/clouds/100/000000/twitter.png"
-    />
-  </a>
-  <a href="https://github.com/SaravanakumarJN">
-    <img
-      alt="github"
-      width="10%"
-      style="padding: 0 5px"
-      src="https://img.icons8.com/clouds/100/000000/github.png"
     />
   </a>
 </p>
