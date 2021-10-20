@@ -1,18 +1,17 @@
-## Hi 👋 I'm Saravanakumar JN
-
-- I'm a **Learner** | **Web Developer** | **Programmer**.
-- I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge.
+## Hi 👋 I'm Saravanakumar JN 
+- I'm a **Learner** | **Web Developer** | **Programmer**. 
+- I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge. 
 - Interested in **exploring new technologies**. 
 - Currently working as an Instructional Associate @masai-school.
 <!-- - Checkout my [resume](https://drive.google.com/file/d/1LCu_MCYhcG5WTcRIIpPuKWfhgyjaiiAo/view?usp=sharing) -->
 
-<br/>
+<br />
 
 ## :hammer_and_wrench: Skills / Interests
 
-<br/>
+<br />
 <div>
-  
+
   ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
   ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
@@ -22,14 +21,14 @@
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
   ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)&nbsp;
-  
-</div> 
 
-<br/>
+</div>
+
+<br />
 
 ## :bar_chart: Github Stats
 
-<br/>
+<br />
 
 <!-- <a href="#">
   <img
@@ -49,34 +48,24 @@
   height="207px"
 />
 
-
-<br/>
+<br />
 
 ## :earth_asia: Connect with me...
 
 <p>
-  <a href="https://portfolio.com/SaravanakumarJN">
+  <a href="https://www.linkedin.com/in/saravanakumar-nagaraj/">
     <img
-      alt="github"
-      width="10%"
-      style="padding: 0 5px"
-      src="https://img.icons8.com/clouds/100/000000/domain.png"
+      src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
-  <a href="https://www.linkedin.com/in/saravanakumar-nagaraj-9b12bb200/">
+  <a href="mailto:kumarjnsaravana@gmail.com">
     <img
-      alt="linkedin"
-      width="10%"
-      style="padding: 0 5px"
-      src="https://img.icons8.com/clouds/100/000000/linkedin.png"
+      src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
     />
   </a>
-  <a href="https://twitter.com/Saravana_JN">
+  <a href="https://saravanakumar-nagaraj.vercel.app/">
     <img
-      alt="twitter"
-      width="10%"
-      style="padding: 0 5px"
-      src="https://img.icons8.com/clouds/100/000000/twitter.png"
+      src="https://img.shields.io/badge/-PORTFOLIO-000000?style=for-the-badge&logo=react&logoColor=white"
     />
   </a>
 </p>
