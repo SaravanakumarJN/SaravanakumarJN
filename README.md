@@ -1,8 +1,8 @@
 ## Hi 👋 I'm Saravanakumar JN 
 - I'm a **Learner** | **Web Developer** | **Programmer**. 
-- I'm skilled at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge. 
+- I'm skilled and experienced at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge. 
 - Interested in **exploring new technologies**. 
-- Currently working as an SDE - I @ CoinSwitch Kuber.
+- Currently working as an SDE - I @ CoinSwitch.
 <!-- - Checkout my [resume](https://drive.google.com/file/d/1LCu_MCYhcG5WTcRIIpPuKWfhgyjaiiAo/view?usp=sharing) -->
 
 <br />
@@ -10,6 +10,7 @@
 ## :hammer_and_wrench: Skills / Interests
 
 <br />
+
 <div>
 
   ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -20,6 +21,9 @@
   ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
+  ![Socket.io](https://img.shields.io/badge/-Socket.io-26C2A0?style=for-the-badge&logo=socket.io)&nbsp;
+  ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-10172A?style=for-the-badge&logo=tailwindcss)&nbsp;
+  ![Solidity](https://img.shields.io/badge/-Solidity-E4E4E5?style=for-the-badge&logo=solidity&logoColor=191919)&nbsp;
   ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)&nbsp;
 
 </div>
