@@ -1,4 +1,4 @@
-## Hi 👋 I'm Saravanakumar JN 
+## Hi 👋 I'm Saravanakumar Nagaraj 
 - I'm a **Learner** | **Web Developer** | **Programmer**. 
 - I'm skilled and experienced at **MERN** based web app development, alongside upskilling my **data structure and algorithms** knowledge. 
 - Interested in **exploring new technologies**. 
