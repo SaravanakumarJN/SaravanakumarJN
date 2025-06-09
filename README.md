@@ -4,10 +4,9 @@
 - Interested in **exploring new technologies**. 
 <!-- - Currently working as an SDE - I @ CoinSwitch. -->
 <!-- - Checkout my [resume](https://drive.google.com/file/d/1LCu_MCYhcG5WTcRIIpPuKWfhgyjaiiAo/view?usp=sharing) -->
-
 <br />
 
-## :hammer_and_wrench: Skills / Interests
+## :hammer_and_wrench: Skills
 
 <br />
 
@@ -17,6 +16,8 @@
   ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;
   ![JavaScript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
   ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)&nbsp;
+  ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+  ![Remix](https://img.shields.io/badge/Remix-000?style=for-the-badge&logo=remix&logoColor=fff)&nbsp;
   ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white)&nbsp;
   ![Node.js](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
   ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -57,14 +58,14 @@
 ## :earth_asia: Connect with me...
 
 <p>
-  <a href="https://www.linkedin.com/in/saravanakumar-nagaraj/">
-    <img
-      src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-  </a>
   <a href="mailto:saravanajnkumar@gmail.com">
     <img
       src="https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/saravanakumar-nagaraj/">
+    <img
+      src="https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
     />
   </a>
 <!--   <a href="https://saravanakumar-nagaraj.vercel.app/">
